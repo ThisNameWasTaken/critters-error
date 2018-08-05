@@ -1,0 +1,23 @@
+{
+  "name": "critters-error",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Adrian Dinca",
+  "license": "MIT",
+  "dependencies": {
+    "bulma": "^0.7.1",
+    "clean-webpack-plugin": "^0.1.19",
+    "critters-webpack-plugin": "^1.1.0",
+    "css-loader": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.4.1",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.1.0",
+    "webpack": "^4.16.4",
+    "webpack-cli": "^3.1.0"
+  }
+}
